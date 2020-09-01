@@ -1,0 +1,12 @@
+.form {
+  display: inline-flex;
+  flex-direction: column;
+}
+
+.create__btn {
+  margin-top: 1rem;
+}
+
+.error {
+  border: 1px solid red;
+}
